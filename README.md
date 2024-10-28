@@ -18,3 +18,5 @@ since k is either rounded up or down to the nearest integer or to the nearest 0.
 
 The relevant code to be run can be found in the Lunar Perigee Calculation cell of the [NCKT Lunar Perigee Calculations Jupyter Notebook](https://github.com/Perri-Woodard/NC-King-Tides/blob/main/NCKT%20Lunar%20Perigee%20Calculations.ipynb). The Apogee Calculation cell was used to work through an example given in Astronomical Algorithms, while the Working Code (testing) 
 cell was used to test and debug versions of the script prior to completion. 
+
+To run this code, download the NCKT_tabulated_t_values csv file, and input the file location where the csv file is read into a dataframe. Formatting should follow how it appears in the sample currently loaded into the Jupyter notebook. Then, change the desired year where the input_year variable is initialized. 
