@@ -16,3 +16,5 @@ testing the end of one month yields the same perigee as the beginning of another
 Repeated lunar perigees can also occur when a generated k value is the same for two t values, 
 since k is either rounded up or down to the nearest integer or to the nearest 0.5 value. 
 
+The relevant code to be run can be found in the Lunar Perigee Calculation cell of the [NCKT Lunar Perigee Calculations Jupyter Notebook](https://github.com/Perri-Woodard/NC-King-Tides/blob/main/NCKT%20Lunar%20Perigee%20Calculations.ipynb). The Apogee Calculation cell was used to work through an example given in Astronomical Algorithms, while the Working Code (testing) 
+cell was used to test and debug versions of the script prior to completion. 
